@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600893102343",
+    "project_id": "tutoracapp-62c92",
+    "storage_bucket": "tutoracapp-62c92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600893102343:android:dfba0a7fb57e7b7b048da2",
+        "android_client_info": {
+          "package_name": "com.tutorac.learning.tutoracapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600893102343-cjjmvi3mt070leu0q1oklpucottcj9vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorac.learning.tutoracapp",
+            "certificate_hash": "88c408210f3eae28bb8f822f4e6661a39f30a266"
+          }
+        },
+        {
+          "client_id": "600893102343-019mmv4ui0jn4hah4nrpalplov5mgl35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiCEnVYNwSPdO_rGGTcHJQpiHHlSoPk-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600893102343-019mmv4ui0jn4hah4nrpalplov5mgl35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
