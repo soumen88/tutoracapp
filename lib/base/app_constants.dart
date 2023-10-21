@@ -10,7 +10,7 @@ class AppConstants{
   static const String kContactNumber = "tel:+914035163199";
   static const String kEmailId = "info@tutorac.com";
   static const String kLocationPermissionDenied = "To properly get data, we need your location. Kindly allow from settings";
-  static const String kOpenWeatherApiKey = "3a8b48c75d62e585e1381e4bebc2ee7f";
+  static const String kOpenWeatherApiKey = "REPLACE_WITH_YOUR_MAPS_KEY";
   static const Color primaryColor = Color(0xff0A0935);
   static const Color primaryLight =Color(0xff8B8BA3);
   static const Color white = Colors.white;
